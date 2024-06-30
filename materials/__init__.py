@@ -1,1 +1,0 @@
-from materials.vmat import Material
